@@ -96,4 +96,4 @@ class SudokuSolver {
 
 }
 
-module.exports = SudokuSolver;
+export default SudokuSolver;
