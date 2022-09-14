@@ -152,4 +152,4 @@ class GenerateSudoku {
 
 }
 
-module.exports = GenerateSudoku;
+export default  GenerateSudoku;
