@@ -5,7 +5,7 @@ const Advance = () => {
   return (
     <div>
       <h2 className='text-center mt-4 text-label'>Advance</h2>
-      <Box level={'BEGINNER'} warningLabelShow={false} />
+      <Box level={'ADVANCED'} warningLabelShow={false} />
     </div>
   )
 }
